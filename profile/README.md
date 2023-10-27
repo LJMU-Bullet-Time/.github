@@ -1,4 +1,4 @@
-# HLJMU Software Engineering Bullet Time Project
+# LJMU Software Engineering Bullet Time Project
 
 Welcome to the LJMU Bullet-Time Organisation!
 
