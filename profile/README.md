@@ -1,7 +1,13 @@
 # LJMU Software Engineering Bullet Time Project
 
-Welcome to the LJMU Bullet-Time Organisation!
+Welcome to the LJMU Software Engineering Team organisation!
 
 ## 🙋‍♀️ Intro
 
-This organisation is home to the repositories used in the bullet-time project currently in development by first-year students at Liverpool John-Moore's University.
+This repository is the home of project created by 2023 students at [Liverpool John Moore's University](https://www.ljmu.ac.uk).
+
+Projects may consist of propositions by students, and also projects proposed by staff. If there is a projet that you think we could complete as a cohort, please get in touch with one of your module leaders.
+
+## 📝 Contributing
+
+If you would like to contribute to any of the projects seen in this repository, please contact the project lead to be added, you will then be invited to the organisation to be given repository access.
