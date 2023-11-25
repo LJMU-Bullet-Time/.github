@@ -1,8 +1,10 @@
-# LJMU Software Engineering Bullet Time Project
+# LJMU Software Engineering Organisation
 
-Welcome to the LJMU Software Engineering Team organisation!
+<img src="https://andersonquigley.com/content/uploads/2022/11/ljmu_logo.png" alt="LJMU Banner Logo" width="100%" />
 
 ## 🙋‍♀️ Intro
+
+Welcome to the LJMU Software Engineering Team organisation!
 
 This organisation is the home of any projects created by 2023 students at [Liverpool John Moore's University](https://www.ljmu.ac.uk).
 
