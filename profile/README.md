@@ -1,7 +1,5 @@
 # LJMU Software Engineering Organisation
 
-<img src="https://andersonquigley.com/content/uploads/2022/11/ljmu_logo.png" alt="LJMU Banner Logo" width="100%" />
-
 ## 🙋‍♀️ Intro
 
 Welcome to the LJMU Software Engineering Team organisation!
