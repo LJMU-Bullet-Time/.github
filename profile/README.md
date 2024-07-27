@@ -2,8 +2,6 @@
 
 Our Website: [www.ljmu.dev](https://www.ljmu.dev)
 
-Beta Site: [beta.ljmu.dev](https://beta.ljmu.dev)
-
 ## 🙋‍♀️ Intro
 
 Welcome to the LJMU Software Engineering Team organisation!
